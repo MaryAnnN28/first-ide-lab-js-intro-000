@@ -1,1 +1,3 @@
 Hello, World!
+// hello there
+I'm Mary Ann and I'm learning JavaScript
